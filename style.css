@@ -1,0 +1,15 @@
+
+div{
+    border: 3px solid black;
+}
+#about{
+    display: flex;
+    flex-direction: row;
+    height: 40%;
+}
+#self portrait{
+    display: flex;
+}
+navigation{
+    background: blue;
+}
